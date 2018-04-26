@@ -1,0 +1,6 @@
+projectKey=cenac.ipn
+serverUrl=http://localhost:9000/sonar
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/sonar/dashboard/index/cenac.ipn
+ceTaskId=AWLguCeUjYw2FPiBVm1p
+ceTaskUrl=http://localhost:9000/sonar/api/ce/task?id=AWLguCeUjYw2FPiBVm1p
