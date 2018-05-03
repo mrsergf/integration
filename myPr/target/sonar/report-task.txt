@@ -1,0 +1,6 @@
+projectKey=cenac.ipn:myApp
+serverUrl=http://www.sergf.cf:9000/sonar
+serverVersion=7.0.0.36138
+dashboardUrl=http://www.sergf.cf:9000/sonar/dashboard/index/cenac.ipn:myApp
+ceTaskId=AWMHsXj_PiMrdFSnNlAA
+ceTaskUrl=http://www.sergf.cf:9000/sonar/api/ce/task?id=AWMHsXj_PiMrdFSnNlAA
